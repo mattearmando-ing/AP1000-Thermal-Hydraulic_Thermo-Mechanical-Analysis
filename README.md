@@ -83,13 +83,13 @@ The work follows a progressive analytical sequence from global system design to 
 - **Geometry:** AP1000 fuel assembly (17×17 lattice, 264 rods/assembly, 157 assemblies).
 
 ### Assignment 1: Passive Decay Heat Removal System
-[Full Report - Part 1](https://raw.githubusercontent.com/mattearmando-ing/AP1000-Thermal-Hydraulic_Thermo-Mechanical-Analysis/main/docs/Assignment_1_Passive_Decay_Heat_Removal.pdf)
+[Full Report - Part 1](https://raw.githubusercontent.com/mattearmando-ing/AP1000-Thermal-Hydraulic_Thermo-Mechanical-Analysis/main/Assignment_1_Passive_Decay_Heat_Removal.pdf)
 
 ### Assignment 2: Hot Subchannel Analysis
-[Full Report - Part 2](https://raw.githubusercontent.com/mattearmando-ing/AP1000-Thermal-Hydraulic_Thermo-Mechanical-Analysis/main/docs/Assignment_2_Hot_Subchannel_Analysis.pdf)
+[Full Report - Part 2](https://raw.githubusercontent.com/mattearmando-ing/AP1000-Thermal-Hydraulic_Thermo-Mechanical-Analysis/main/Assignment_2_Hot_Subchannel_Analysis.pdf)
 
 ### Assignment 3: Thermo-Mechanical Verification
-[Full Report - Part 3](https://raw.githubusercontent.com/mattearmando-ing/AP1000-Thermal-Hydraulic_Thermo-Mechanical-Analysis/main/docs/Assignment_3_Thermo_Mechanical_Verification.pdf)
+[Full Report - Part 3](https://raw.githubusercontent.com/mattearmando-ing/AP1000-Thermal-Hydraulic_Thermo-Mechanical-Analysis/main/Assignment_3_Thermo_Mechanical_Verification.pdf)
 
 ---
 
